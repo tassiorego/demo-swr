@@ -1,0 +1,10 @@
+{
+  "posts": [
+    { "id": "1", "title": "json-server", "author": "tassiorego" },
+    { "id": "2", "title": "react", "author": "andersonlima" },
+    { "id": "3", "title": "react native", "author": "richardpacheco" },
+    { "id": "4", "title": "python", "author": "franco" },
+    { "id": "5", "title": "goland", "author": "barreto" },
+    { "id": "6", "title": "java", "author": "Duda" }
+  ]
+}
